@@ -1,0 +1,47 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="CurrencyRate.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="ApiEndpoint" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.cbr.ru/scripts/XML_daily.asp</Value>
+    </Setting>
+    <Setting Name="CurrencyCodes" Type="System.Collections.Specialized.StringCollection" Scope="User">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;AUD&lt;/string&gt;
+  &lt;string&gt;AZN&lt;/string&gt;
+  &lt;string&gt;GBP&lt;/string&gt;
+  &lt;string&gt;AMD&lt;/string&gt;
+  &lt;string&gt;BYR&lt;/string&gt;
+  &lt;string&gt;BGN&lt;/string&gt;
+  &lt;string&gt;BRL&lt;/string&gt;
+  &lt;string&gt;HUF&lt;/string&gt;
+  &lt;string&gt;DKK&lt;/string&gt;
+  &lt;string&gt;USD&lt;/string&gt;
+  &lt;string&gt;EUR&lt;/string&gt;
+  &lt;string&gt;INR&lt;/string&gt;
+  &lt;string&gt;KZT&lt;/string&gt;
+  &lt;string&gt;CAD&lt;/string&gt;
+  &lt;string&gt;KGS&lt;/string&gt;
+  &lt;string&gt;CNY&lt;/string&gt;
+  &lt;string&gt;MDL&lt;/string&gt;
+  &lt;string&gt;NOK&lt;/string&gt;
+  &lt;string&gt;PLN&lt;/string&gt;
+  &lt;string&gt;RON&lt;/string&gt;
+  &lt;string&gt;XDR&lt;/string&gt;
+  &lt;string&gt;SGD&lt;/string&gt;
+  &lt;string&gt;TJS&lt;/string&gt;
+  &lt;string&gt;TRY&lt;/string&gt;
+  &lt;string&gt;TMT&lt;/string&gt;
+  &lt;string&gt;UZS&lt;/string&gt;
+  &lt;string&gt;UAH&lt;/string&gt;
+  &lt;string&gt;CZK&lt;/string&gt;
+  &lt;string&gt;SEK&lt;/string&gt;
+  &lt;string&gt;CHF&lt;/string&gt;
+  &lt;string&gt;ZAR&lt;/string&gt;
+  &lt;string&gt;KRW&lt;/string&gt;
+  &lt;string&gt;JPY&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
